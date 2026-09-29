@@ -1,0 +1,2 @@
+-- usuario admin@admin, tecnico@tecnico, resgistrador@registrador, dev@dev
+-- la contraseña es:123456
