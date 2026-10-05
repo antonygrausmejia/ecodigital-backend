@@ -93,7 +93,7 @@ Abre una terminal, dirígete a la carpeta del backend y ejecuta el proyecto usan
 ```bash
 cd ruta del backend
 ./mvnw spring-boot:run
-El backend se levantará en: https://localhost:8080
+El backend se levantará en: http://localhost:8080
 
 ### 3. Levantar el Backend (Spring Boot)
 
@@ -101,8 +101,8 @@ Abre una terminal, dirígete a la carpeta del Frontend y ejecuta el proyecto:
 
 cd ruta-al-frontend
 npm install
-ng serve --ssl true
+npx ng serve
 
-El frontend se levantará en: https://localhost:4200
+El frontend se levantará en: http://localhost:4200
 
 ```
